@@ -1,7 +1,7 @@
 # RocketNFT
 ------------------
 
-[go](https://rocketnft.vercel.app){:target="_blank" rel="noopener"}
+https://rocketnft.vercel.app
 
 It's a static site created for practices my skill with nextJs and scss only,
 
