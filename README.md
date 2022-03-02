@@ -1,6 +1,8 @@
 # RocketNFT
 ------------------
 
+https://rocketnft.vercel.app/
+
 It's a static site created for practices my skill with nextJs and scss only,
 
 No components created in this project.
